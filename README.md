@@ -14,6 +14,11 @@ http://coolaf.com/tool/chattest
 注意：@ServerEndpoint("/webSocketOne")这个注解里面的url就是你的webSocket接口的路径,可以改的，
 全部url是ws://127.0.0.1:8080/webSocketOne
 
+### 测试sse  
+1、启动java项目  
+2、打开resource下面的static里面的index.html  
+3、直接在页面测试  
+
 
 
 
